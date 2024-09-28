@@ -13,6 +13,9 @@ El objetivo es desarrollar una **aplicación móvil** que sirva como intermediar
 - **Facilitar la comunicación** entre usuarios y transportistas dentro de la app.
 - **Asegurar la escalabilidad** de la app para soportar miles de usuarios concurrentes.
 
+![ruta](https://github.com/user-attachments/assets/b84b8cd1-34c9-445a-b00c-5c23d27d21b4)
+
+
 ## 3. Fases del Desarrollo
 
 ### a) Investigación y análisis de requerimientos
@@ -25,13 +28,13 @@ El objetivo es desarrollar una **aplicación móvil** que sirva como intermediar
 - Realizar **pruebas de usabilidad** antes del desarrollo.
 
 ### c) Desarrollo Frontend
-- Elegir un **framework móvil** como **React Native** o **Flutter**.
+- **React Native**
 - Implementar funcionalidades clave como el registro de usuarios, carga de información del vehículo y geolocalización.
 - Desarrollar un **sistema de notificaciones push**.
 
 ### d) Desarrollo Backend
 - Desarrollar una **API robusta** para manejar solicitudes, autenticación, y pagos.
-- Crear un **sistema de bases de datos** eficiente (PostgreSQL o Firebase).
+- Crear un **sistema de bases de datos** eficiente en PostgreSQL.
 - **Seguridad de datos** mediante cifrado.
 
 ### e) Integración de sistemas de pago
