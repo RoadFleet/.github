@@ -67,3 +67,6 @@ El desarrollo de la app puede seguir el siguiente cronograma:
 - **Volumen de transacciones** procesadas.
 - **Calificaciones y reseñas positivas**.
 
+
+![output](https://github.com/user-attachments/assets/8b223e6f-33a0-4fba-be74-07aca2bc4798)
+
