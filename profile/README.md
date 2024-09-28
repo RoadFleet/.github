@@ -1,5 +1,8 @@
 # Proyecto: Desarrollo de Aplicación de Transporte de Vehículos
 
+![RoadFlet](https://github.com/user-attachments/assets/c9574145-cc59-450e-ad4a-83fe6d8de604)
+
+
 ## 1. Descripción del Proyecto
 El objetivo es desarrollar una **aplicación móvil** que sirva como intermediaria entre usuarios que necesitan transportar vehículos y camioneros que ofrezcan el servicio. La app incluirá funcionalidades para el registro de vehículos, seguimiento en tiempo real, pago seguro, y una interfaz amigable.
 
